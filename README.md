@@ -4,3 +4,5 @@ This is my first repository!
 My name is Kian Ming Aau......
 
 ![headshot](a5433dd4448949a9c85c790dd4b29df8.jpg)
+
+Leaning Git on 31 Dec 2019
